@@ -1,0 +1,205 @@
+@charset "utf-8";
+/* CSS Document */
+#chuanjia_page{	
+	font-family: "Microsoft YaHei";/*字体*/
+	color: #555555;/*字体颜色*/
+}
+.chuanjia_banner{
+	background: #BBF2F5 url("../images/banner.jpg") no-repeat center top;/*banner图片路径*/
+	height: 475px;/*banner图片原始高度*/
+}
+.chuanjia_content{
+	width:980px;/*980宽度*/
+	margin:0 auto;/*内容居中对齐*/
+}
+#chuanjia_contentOne{
+	background: #fff url("../images/chuanjia_bg.jpg") no-repeat center top;/*banner图片路径*/
+	height: 996px;/*banner图片原始高度*/
+	background-size: 980px;	
+}
+.chuanjia_marginBlock{
+	margin-top: 60px;
+}
+.chuanjia_paddingBlock{
+	padding: 60px 0px;
+}
+#chuanjia_partOne{
+	background-color: #fff;
+}
+.chuanjia_textcontent{
+	padding:0px 50px;
+}
+.chuanjia_title{
+	font-size: 40px;
+	text-align: center;
+	color: #a71e26;
+	font-weight: bold;
+	height: 40px;
+	line-height: 40px;
+	letter-spacing: 5px;
+}
+.chuanjia_text1{      
+	padding: 78px 0px 30px;
+	font-size: 20px;
+}
+.chuanjia_contenttitle{
+	height: 50px;
+    margin-bottom: 15px;
+    margin-top: 30px;
+}
+.chuanjia_textcontent_img{
+	float: left;
+    width: 47px;
+    padding-top: 12px;
+}
+.chuanjia_textcontent_title{
+	color: #a71e26;
+	font-size: 30px;
+	font-weight: bold;
+	line-height: 50px;
+	margin-left: 95px;
+}
+.chuanjia_ct{
+	/* margin: 0px 0px 0px 22px; */
+    padding: 80px 0px;
+    /* margin-top: -8px; */
+}
+.chuanjia_content_t{
+	margin-left: 95px;
+    font-size: 16px;
+    color: #000;
+}
+#chuanjia_contentTwo{
+	background: #f2f2f2 url("../images/chuanjia_bg2.jpg") no-repeat center top;/*banner图片路径*/
+	height: 995px;/*banner图片原始高度*/
+	background-size: 980px;	
+}
+#chuanjia_ensure{
+	margin-top: 340px;
+}
+#chuanjia_ensure span{
+	font-size: 18px;
+}
+.chuanjia_ensure1{
+	padding-left: 105px;
+}
+.chuanjia_ensure2{
+	padding-left: 198px;
+}
+.chuanjia_ensure3{
+	padding-left: 200px;
+}
+.chuanjia_special1{
+	font-size: 18px;
+	margin-top: 180px;
+}
+.chuanjia_special2{
+	font-size: 18px;
+	margin-top: 5px;
+}
+.chuanjia_ensure4{
+	padding-left: 182px;
+}
+.chuanjia_ensure5{
+	padding-left: 161px;
+}
+.chuanjia_ensure6{
+	padding-left: 170px;
+}
+#chuanjia_partThree{
+	background-color: #fff;
+	padding-top: 70px;
+	font-size: 20px;
+}
+#chuanjia_contentThree{
+	background: #fff url("../images/chuanjia_bg.jpg") no-repeat center top;/*banner图片路径*/
+	/* height: 996px; *//*banner图片原始高度*/	
+	background-size:980px;
+}
+.chuanjia_ex{
+	margin-top: 180px;
+	font-size: 16px; 
+	width: 366px;
+	line-height: 27px;
+}
+/*表格样式*/
+.chuanjia-table{
+	border-top:1px solid #cccccc;
+	border-left:1px solid #cccccc;
+	color:#666666;
+	background-color: #fff;
+	font-size: 16px;
+	text-align: center;
+}
+.chuanjia-table td{
+	padding: 10px 10px 10px 10px;
+	border-bottom:1px solid #cccccc;
+	border-right:1px solid #cccccc;
+}
+.chuanjia-theader{
+	background-color: #78CC9F;
+	color: #fff;
+}
+
+#chuanjia_gril{	
+	background: transparent url("../images/chuanjia_gril.jpg") no-repeat center top;/*banner图片路径*/
+	height: 368px;
+}
+.chuanjia_title3{
+	font-size: 34px;
+	color: #fff;
+	padding:146px 80px 0px;
+}
+.chuanjia_profit{
+	margin-top: 30px;
+}
+.chuanjia_icon{
+	position: absolute;
+}
+.chuanjia_ensureMoney{
+	padding-left: 60px;
+	font-size: 16px;
+}
+.chuanjia_ensureMoney strong{
+	line-height: 30px;	
+}
+#chuanjia_contentFour{
+	background: transparent url("../images/chuanjia_bg4.jpg") no-repeat center top;/*banner图片路径*/
+	height: 132px;	
+}
+.chuanjia_know{
+	font-size: 16px;
+	margin-bottom: 10px;
+}
+.chuanjia_know td{
+	padding: 0px 10px 0px 10px;
+	vertical-align: top;
+}
+.chuanjia_know img{
+	padding-top: 4px;
+}
+.chuanjia_bottomText{
+	font-size: 16px;
+	margin-bottom: 8px;
+	margin-top: 5px;
+}
+.chuanjia_partTwo{
+	background-color: #f2f2f2;
+	padding-top: 70px;
+}
+#chuanjia_partFour{
+	padding-bottom:60px;
+}
+
+.chuanjia_toubao_boy {
+    font-size: 20px;
+}
+
+.chuanjia_toubao{
+	color: #a71e26;
+	font-weight: bold;
+	font-size: 20px;
+}
+.partThree_table{
+	margin: 30px 0 40px 0 ;
+}
